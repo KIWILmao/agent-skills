@@ -1,13 +1,7 @@
 ---
 name: ptp
 description: >
- Plan To Product (PTP) — Full project scaffolding and execution tracking skill. Trigger this 
- skill whenever the user uses /ptp <idea>, asks to "plan a project", "scaffold a project", 
- "generate a PRD", "create project plans", or says "I have an idea I want to build". Also 
- trigger if the user mentions wanting plans, screens, or phases for a new project. This skill 
- generates a PRD, a screens breakdown, modular plan files with phases, and an execute.md 
- tracker — and then drives the actual implementation using those plans, resuming automatically 
- across sessions.
+ Plan To Product (PTP) — Turns an idea into a PRD, screens, phased plans, and an execution tracker.
 ---
 
 # PTP — Plan To Product
